@@ -12,14 +12,3 @@ function getTodoTopics(todos) {
 
 console.log(getTodoTopics(todos));
 
-
-/* 
-	Output:
-	[
-		'Doing pre-work',
-		'Workout',
-		'Playing computer games',
-		'Relax',
-		'Clean the room'
-	]
-*/
